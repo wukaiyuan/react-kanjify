@@ -1,0 +1,19 @@
+h1 {
+	margin-bottom: 50px;
+}
+
+.input-group {
+	width: 360px;
+	margin-left: 15px;
+}
+
+.glyphicon {
+	font-size: 18px;
+	z-index: 20;
+	cursor: pointer;
+}
+
+.glyphicon-remove{
+	position: relative;
+	right: 30px;
+}
